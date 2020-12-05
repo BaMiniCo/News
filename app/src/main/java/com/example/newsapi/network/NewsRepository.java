@@ -1,8 +1,8 @@
-package com.example.sulekhaassessment.network;
+package com.example.newsapi.network;
 
 import androidx.lifecycle.MutableLiveData;
 
-import com.example.sulekhaassessment.model.NewsResponse;
+import com.example.newsapi.model.NewsResponse;
 
 import retrofit2.Call;
 import retrofit2.Callback;

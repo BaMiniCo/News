@@ -1,12 +1,12 @@
-package com.example.sulekhaassessment.viewmodel;
+package com.example.newsapi.viewmodel;
 
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.example.sulekhaassessment.network.NewsRepository;
-import com.example.sulekhaassessment.model.NewsResponse;
+import com.example.newsapi.network.NewsRepository;
+import com.example.newsapi.model.NewsResponse;
 
 public class NewsViewModel extends ViewModel {
 

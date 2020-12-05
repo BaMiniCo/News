@@ -1,4 +1,4 @@
-package com.example.sulekhaassessment.model;
+package com.example.newsapi.model;
 
 import java.util.List;
 

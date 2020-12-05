@@ -1,6 +1,6 @@
-package com.example.sulekhaassessment.network;
+package com.example.newsapi.network;
 
-import com.example.sulekhaassessment.model.NewsResponse;
+import com.example.newsapi.model.NewsResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

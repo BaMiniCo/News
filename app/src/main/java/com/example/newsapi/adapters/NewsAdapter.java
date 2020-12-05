@@ -1,4 +1,4 @@
-package com.example.sulekhaassessment.adapters;
+package com.example.newsapi.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,8 +13,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.sulekhaassessment.model.NewsArticle;
-import com.example.sulekhaassessment.R;
+import com.example.newsapi.model.NewsArticle;
+import com.example.newsapi.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

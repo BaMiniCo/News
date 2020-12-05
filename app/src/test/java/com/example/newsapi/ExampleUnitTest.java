@@ -1,4 +1,4 @@
-package com.example.sulekhaassessment;
+package com.example.newsapi;
 
 import org.junit.Test;
 

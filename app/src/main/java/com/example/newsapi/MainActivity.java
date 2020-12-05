@@ -1,4 +1,4 @@
-package com.example.sulekhaassessment;
+package com.example.newsapi;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProviders;
@@ -8,9 +8,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 
-import com.example.sulekhaassessment.adapters.NewsAdapter;
-import com.example.sulekhaassessment.model.NewsArticle;
-import com.example.sulekhaassessment.viewmodel.NewsViewModel;
+import com.example.newsapi.adapters.NewsAdapter;
+import com.example.newsapi.model.NewsArticle;
+import com.example.newsapi.viewmodel.NewsViewModel;
 
 import java.util.ArrayList;
 import java.util.List;

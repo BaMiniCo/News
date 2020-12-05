@@ -1,4 +1,4 @@
-package com.example.sulekhaassessment.model;
+package com.example.newsapi.model;
 
 public class NewsSource {
     private String id;
